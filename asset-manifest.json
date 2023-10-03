@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieApi/static/css/main.64ce3900.css",
+    "main.js": "/MovieApi/static/js/main.1df5ba36.js",
+    "index.html": "/MovieApi/index.html",
+    "static/media/search.svg": "/MovieApi/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.64ce3900.css.map": "/MovieApi/static/css/main.64ce3900.css.map",
+    "main.1df5ba36.js.map": "/MovieApi/static/js/main.1df5ba36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ce3900.css",
+    "static/js/main.1df5ba36.js"
+  ]
+}
